@@ -4,9 +4,6 @@ Albion Builder App Exits to create page by draging and droping pictures
 ![AlbionBuilderAppDemo](https://github.com/H3sitant/AlbionBuilderApp/assets/47360046/3a0edf36-8d25-4663-9103-b3c921fc1a8e)
 
 ## How to install
-```diff
-- Since this is a small project it is not certificated
-``` 
 ### 1 - Download the folder
 ![image](https://github.com/H3sitant/AlbionBuilderApp/assets/47360046/c46da19d-307e-44f6-a3f1-50ca18a84e17)
 ### 2 - Extract file from the folder
